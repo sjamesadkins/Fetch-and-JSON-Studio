@@ -13,4 +13,11 @@
     padding: 5px;
     margin-bottom: 20px;
     border-radius: 6px;
+    background-color: rgb(93, 236, 74);
+    font-weight: bold;
+}
+
+.background {
+    background-image: url(https://assets.newatlas.com/dims4/default/8d31538/2147483647/strip/true/crop/1754x1777+0+0/resize/1440x1459!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F4a%2F07%2F08c01a2d4caa976cbbc5e853794b%2Fcanis-major.jpg);
+    opacity: .75;
 }
